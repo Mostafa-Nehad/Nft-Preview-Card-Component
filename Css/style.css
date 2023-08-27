@@ -78,10 +78,7 @@ span{
   opacity: 1;
 }
 hr{
-  width: 100%;
-  margin-left: auto;
-  margin-right: auto;
-  color: hsl(215, 32%, 27%);
+  border-color: hsl(215, 32%, 27%);
   margin-bottom: 20px;
 }
 .p-container{
